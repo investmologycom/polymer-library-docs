@@ -29,7 +29,7 @@
     "@polymer/paper-toast": "^3.0.0",
     "@polymer/polymer": "^3.0.0",
     "@stackblitz/sdk": "^1.2.0",
-    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "@webcomponents/webcomponentsjs": "^2.6.0",
     "web-animations-js": "^2.3.1"
   },
   "devDependencies": {
