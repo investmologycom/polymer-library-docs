@@ -9,7 +9,7 @@
     "generate-api-docs-3": "cd scripts && node generate_api_docs_3.js"
   },
   "dependencies": {
-    "@polymer/app-layout": "^3.0.0",
+    "@polymer/app-layout": "^3.1.0",
     "@polymer/app-route": "^3.0.0",
     "@polymer/iron-ajax": "^3.0.0",
     "@polymer/iron-collapse": "^3.0.0",
